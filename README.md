@@ -1,5 +1,5 @@
 # Froth_Project
-Service files for testing and data processing, including the yolo model
+Service files for testing and data processing, including the YOLOv5-model
 
 /matches contains files for processing data. Basically, they are not structured
 
