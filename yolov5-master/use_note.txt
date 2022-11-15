@@ -1,0 +1,5 @@
+Run yolo ultralitics:
+
+python3 detect.py --weights yolov5s.pt --img 640 --conf 0.25 --source data/images
+
+python3 detect.py --weights danone_1.pt --conf 0.35 --source data/danon_videos/rope_1.avi
